@@ -1,1 +1,2 @@
-study git hard
+study git hard.
+repeat command again and again.
